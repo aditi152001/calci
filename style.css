@@ -1,7 +1,8 @@
 .mainbox{
     max-width: 420px;
     margin-top: 10vh;
-    margin-left: 10vh;
+    margin-left: 50%;
+    transform: translate(-50%);
     margin-bottom: 10vh;
     margin-right: 10vh;
     box-shadow:10px 0px 10px 0px grey ;
